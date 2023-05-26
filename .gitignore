@@ -1,1 +1,8 @@
-./cache
+cache/
+build/*.o
+net
+build/CMakeFiles
+build/cmake_install.cmake
+build/CMakeCache.txt
+compile_commands.json
+build/Makefile
